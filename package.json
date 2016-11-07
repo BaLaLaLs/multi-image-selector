@@ -1,0 +1,16 @@
+{
+  "name": "multi-image-selector",
+  "version": "1.0.0",
+  "description": "image multi select for react-native ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "select",
+    "multi"
+  ],
+  "author": "free_ls",
+  "license": "MIT"
+}
