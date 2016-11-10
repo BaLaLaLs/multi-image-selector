@@ -28,7 +28,7 @@ export default class MyProject extends Component {
             <TouchableNativeFeedback style={styles.container}
                  onPress={()=> {
                      MultiImage.pickImage({}).then((imageArray)=> {
-                         this.setState({imageArray: imageArray})
+                         this.setState({imageArray})
                      }).catch(e=> {
                     });
              }}>

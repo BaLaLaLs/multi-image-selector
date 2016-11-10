@@ -102,7 +102,7 @@ multi-image-selector android for react-native
 	                         maxNum: 5,
 	                         multiple:true
 	                     }).then((imageArray)=> {
-	                         this.setState({imageArray: imageArray})
+	                         this.setState({imageArray})
 	                     }).catch(e=> {
 	                    });
 	             }}>
