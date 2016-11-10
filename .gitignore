@@ -2,6 +2,8 @@
 #
 .DS_Store
 .vscode
+.npmignore
+.gitignore
 # Xcode
 #
 build/
