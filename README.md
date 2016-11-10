@@ -72,7 +72,8 @@ multi-image-selector android for react-native
 	</<tr> 
 	<tr>
 		<td>width</td>
-		<td>100</td>
+
+<td>100</td>
 		<td>number</td>	
 		<td>裁剪结果的宽度 crop result width</td>	
 	</<tr> 
@@ -122,3 +123,4 @@ multi-image-selector android for react-native
 	}
 
 `
+> 本组件只是对 [MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector) 简单的移植 
