@@ -7,7 +7,7 @@ multi-image-selector android for react-native
 # Android:
 ## 2.自动安装 Automatic Installation
 	react-native link 
-## 2.手动安装
+## 2.手动安装 Manually Installation
  
 	// 编辑  edit: android/settings.gradle
 	include ':react-native-multi-image-selector'
