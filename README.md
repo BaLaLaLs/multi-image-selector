@@ -38,4 +38,6 @@ multi-image-selector android for react-native
 	...
 	}	
 ## Usage:
+![loading](Example/camera.gif) ![loading](Example/multiple.gif) 
+<table>
 	
